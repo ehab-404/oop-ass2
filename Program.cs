@@ -310,7 +310,16 @@ namespace oop_ass2
 
 
 
-           
+
+            #region task2 
+
+            //protected property : accesssed in same class or any derived class
+            //private protected property : accessed in same class or    derived class in same project 
+            // protected  internal property : accessed in same class or   any class in same project  or derived class in anoter project 
+
+            #endregion
+
+
 
 
         }
